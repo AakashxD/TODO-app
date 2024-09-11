@@ -1,0 +1,11 @@
+{
+  "welcome": "Welcome to the Museum Ticket Booking Chatbot!",
+  "type_message": "Type your message...",
+  "send": "Send",
+  "booking_success": "Your booking was successful!",
+
+  "booking_failed": "There was an issue with your booking. Please try again.",
+  "hello_response": "Hello. Nice to meet you.",
+  "dog_picture_response": "Here's a nice dog picture for you!",
+  "language_changed": "Language changed to: {{language}}"
+}

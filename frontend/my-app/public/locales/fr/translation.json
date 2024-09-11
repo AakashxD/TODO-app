@@ -1,0 +1,10 @@
+{
+  "welcome": "Bienvenue dans le chatbot de réservation de billets pour le musée!",
+  "type_message": "Tapez votre message...",
+  "send": "Envoyer",
+  "booking_success": "Votre réservation a été réussie!",
+  "booking_failed": "Un problème est survenu lors de votre réservation. Veuillez réessayer.",
+  "hello_response": "Bonjour. Ravi de vous rencontrer.",
+  "dog_picture_response": "Voici une belle photo de chien pour vous!",
+  "language_changed": "Langue changée en : {{language}}"
+}
